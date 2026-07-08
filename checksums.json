@@ -30,7 +30,7 @@
   "resources\\data.db5": "c7aead896548c4add3cbe0126271a91b1656fafe72d2d54a576b1e86fd6f1a6d",
   "resources\\data.db6": "771cfbb854b41d5bf3d943feff98dd750b718b699e92e00165af8f0c2c3aa0d3",
   "resources\\data.db7": "88b1aa699ce9b2932d3d9cbea59ffb284ef58e751f4a1214bfc592b9ceedba6d",
-  "resources\\data.db8": "caed95eaa75aee6e2774da49d3825d278e9a790d9abfdc8d2cacdc7d50647a71",
+  "resources\\data.db8": "8240a5c140bffbc9cbf66f68688351c60acf6ee5b4aa435eb27704a733031305",
   "software\\directx-tweaks.7z": "c04ef77f6bd5a94b1b40ce1024644cd72a677191333cfc501c02a8b7b92939f9",
   "software\\dxwebsetup.exe": "34f64699d4830145cae69bd40115b1f326e70fc6a98456cb3df996d947dddca4",
   "software\\enable directplay(ADMIN need).bat": "392f8dbe183e9a8c25d9ecf23498745a88054cf8806889a13611ce736fdbecdc",
@@ -40,6 +40,6 @@
   "software\\vc_redist.x86.exe": "fdd1e1f0dcae2d0aa0720895eff33b927d13076e64464bb7c7e5843b7667cd14",
   "fsgameClient.ltx": "8bf63ec5b2d846d0128ab4d199c962eb06722f5fd7a1773552a203978bc4ac05",
   "StartGame.lnk": "249a0a3ed381fb803ccae2706dd44acb1dbbf2611049b44ab7cca54879889a6c",
-  "version.txt": "fdd355d966d6ee8b754fc275a56c1790d3c43a4042f7447db53e7d5f55cb03b7",
-  "changelog.txt": "f376c12ceef31c77f7f20b711b803b72f095ebda3727e54761acb06f61a75ee5"
+  "version.txt": "e5095cdd92746a494adb7a419cd29cd01433805973871e6ccc8cc1a32e5962e4",
+  "changelog.txt": "c77c927b8f548d52c6a2d438880f1e248c9169ccfaac15a6e4ae93c1d8c29d6b"
 }
